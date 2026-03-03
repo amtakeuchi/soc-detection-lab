@@ -233,7 +233,6 @@ Detects abuse of Microsoft's mavinject.exe for DLL injection attacks. Used in 15
 - [ ] Threat intelligence feed integration
 - [ ] Extended MITRE ATT&CK coverage (10+ techniques)
 - [ ] Automated playbook execution
-- [ ] Custom dashboard development
 
 
 ---
@@ -250,3 +249,4 @@ Detects abuse of Microsoft's mavinject.exe for DLL injection attacks. Used in 15
 
 
 *SOC Detection Engineering Portfolio Project | 2026*
+
