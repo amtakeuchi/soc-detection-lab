@@ -48,6 +48,27 @@ A fully functional Security Operations Center (SOC) lab built to demonstrate det
 
 ---
 
+## SOC Operations Dashboard
+
+![SOC Dashboard](screenshots/soc-operations-dashboard.png)
+
+Real-time security monitoring dashboard providing:
+- **Temporal Analysis:** Process execution timeline
+- **Behavioral Analysis:** Top processes and user activity patterns
+- **Technical Analysis:** Sysmon event type distribution
+- **Detection Coverage:** 5 MITRE ATT&CK techniques monitored
+- **Active Threats:** Recent detection rule matches
+
+**Dashboard Panels:**
+- Process Execution Timeline (activity over time)
+- Top 10 Executed Processes (frequency analysis)
+- Activity by User Account (user behavior)
+- Sysmon Event Type Distribution (telemetry breakdown)
+- Detection Coverage (MITRE ATT&CK mapping)
+- Recent Suspicious Activity (filtered detections)
+
+---
+
 ## Detection Coverage
 
 ### MITRE ATT&CK Techniques Detected
