@@ -127,8 +127,6 @@ soc-detection-lab/
 │   └── atomic-red-team-execution.md
 ├── soar-workflows/                    # SOAR automation workflows
 │   └── tines-workflow.md
-├── blog-articles/                     # Project write-ups
-│   └── building-soc-detection-lab.md
 └── screenshots/                       # Visual documentation
     ├── architecture-diagram.png
     ├── tines-workflow.png
@@ -249,5 +247,6 @@ Detects abuse of Microsoft's mavinject.exe for DLL injection attacks. Used in 15
 - **SwiftOnSecurity** - Sysmon configuration templates
 
 ---
+
 
 *SOC Detection Engineering Portfolio Project | 2026*
